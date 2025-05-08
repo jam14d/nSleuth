@@ -81,9 +81,9 @@ Not sure where to start with statistical tests? You're not alone — and you're 
 
 **nSleuth** was created for researchers, students, and curious thinkers who want to do things right, even if stats feels a bit overwhelming at first. Whether you're planning your first experiment or double-checking your analysis, nSleuth helps you:
 
-- Estimate **sample sizes** with clarity  
-- Visualize **power curves** to understand your study's strength  
-- Compare **group differences** without second-guessing your math  
+- Estimate sample sizes
+- Visualize power curves
+- Compare group differences
 
 Let’s figure it out together.
 
