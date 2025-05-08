@@ -1,0 +1,30 @@
+Icon
+Icon?
+Icon\r
+"Icon\r"
+Icon*
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+
+# VSCode settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
