@@ -2,6 +2,8 @@
 
 **nSleuth** is an interactive, browser-based statistics assistant built using Streamlit. It helps users understand and apply key statistical methods, including power analysis and group comparisons, with accessible explanations and visualizations.
 
+[Live App](https://nsleuth.streamlit.app/)
+
 ---
 
 ## Features
