@@ -53,8 +53,6 @@ def plot_power_curve(test_type, effect_size, alpha, desired_power, num_groups=2)
 
 def run_power_analysis():
     st.markdown("""
-Welcome to **nSleuth**, a tool for researchers who want to detect the right effect — with the right sample size.
-
 1. Pick your test  
 2. Enter effect size, alpha, and desired power  
 3. Get an estimate of the participants needed per group  
