@@ -68,10 +68,10 @@ nSleuth
 </h1>""", unsafe_allow_html=True)
 
 
-tab0, tab1, tab2 = st.tabs([
+tab0, tab1, tab2= st.tabs([
     "Home",
     "Power Analysis",
-    "Group Comparison"
+    "Group Comparison (t-test/ANOVA)"
 ])
 
 # Home page content
@@ -98,3 +98,4 @@ with tab1:
 # Group comparison tab
 with tab2:
     run_group_comparison()
+
