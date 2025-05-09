@@ -53,7 +53,6 @@ def generate_pdf_report(title, explanation, summary, formulas):
 
 def run_group_comparison():
     st.title("Group Comparison Tool (t-test and ANOVA)")
-    st.markdown("This tool helps researchers compare group means and understand how the statistics are calculated.")
 
     input_mode = st.radio("Select data input method:", ["Upload CSV", "Manual Entry", "Simulate Example Data"])
 
